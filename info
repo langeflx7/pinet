@@ -1,0 +1,6 @@
+hide cursor: sudo apt install unclutter
+
+todo: 
+    create script: hide cursor -> launch app
+    run script on pi boot up
+    quit script remotely
